@@ -1,2 +1,2 @@
-# KaggleProject
-Machine Learning Kaggle Project
+# Intro to ML - KaggleProject
+CentraleSupélec - Introduction to Machine Learning
